@@ -3,7 +3,7 @@
 For linux, install autoconf first for jemalloc
 
 ```
-git clone https://github.com/cloudwu/skynet.git
+git clone https://github.com/yuromantic/skynet.git
 cd skynet
 make 'PLATFORM'  # PLATFORM can be linux, macosx, freebsd now
 ```
